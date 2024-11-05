@@ -1,0 +1,10 @@
+C:\ProgObiekIGraf\AdministratorWydarzen\bin\Debug\AdministratorWydarzen.exe.config
+C:\ProgObiekIGraf\AdministratorWydarzen\bin\Debug\AdministratorWydarzen.exe
+C:\ProgObiekIGraf\AdministratorWydarzen\bin\Debug\AdministratorWydarzen.pdb
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.csproj.AssemblyReference.cache
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.Properties.Resources.resources
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.csproj.GenerateResource.cache
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.csproj.CoreCompileInputs.cache
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.exe
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.pdb
+C:\ProgObiekIGraf\AdministratorWydarzen\obj\Debug\AdministratorWydarzen.Views.Form1.resources
